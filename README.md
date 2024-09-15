@@ -1,4 +1,3 @@
-# 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+# I just a new nvimer
+## it is my first time to learn Code 
+### I get interest in Java , Python , C , Cpp , Rust
