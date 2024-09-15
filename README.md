@@ -8,3 +8,6 @@
 |Rust|Beginner|
 |C|My theacher will theach me|
 |Python| I need it to math modle|
+
+> 沉默是金
+
