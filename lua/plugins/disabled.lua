@@ -1,3 +1,3 @@
 return {
-  { "mrcjkb/rustaceanvim", enabled = false },
+  --{ "mrcjkb/rustaceanvim", enabled = false },
 }
